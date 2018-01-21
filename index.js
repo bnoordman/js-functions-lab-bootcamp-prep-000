@@ -5,5 +5,6 @@ function happyHolidays(string) {
 
 function happyHolidaysTo(string) {
   if (string === ${name})
-  return 
+  return `Happy holidays, ${name}!`
 }
+
