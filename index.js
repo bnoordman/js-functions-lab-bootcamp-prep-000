@@ -1,2 +1,4 @@
 // write your code below!
-function say(H)
+function say(string) {
+  return ""
+}
